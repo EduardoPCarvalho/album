@@ -69,10 +69,10 @@ body {
   background: #d4d3d3;
 }
 .album__paper:nth-of-type(1) .back {
-  background: #0095a3;
+  background: #D98B39;
 }
 .album__paper:nth-of-type(1) .album__page {
-  background: #0095a3;
+  background: #D98B39;
 }
 .album__paper.open {
   box-shadow: 0 1em 0 0 #aaa;
