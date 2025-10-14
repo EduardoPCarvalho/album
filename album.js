@@ -5,7 +5,7 @@ new Vue({
       isOpenedTop: false,
       items: [
         {
-          img1: "images/dormindoani1.png",
+          img1: "images/dormindoani4.png",
           img2: "images/dormindoani2.jpg",
           img3: "images/dormindoani3.png",
           title: "DORMINDO",
